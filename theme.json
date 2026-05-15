@@ -1,0 +1,7 @@
+{
+  "name": "AgriDraw",
+  "dataColors": ["#4a7c3f","#e8a838","#c9b870","#7ab85c","#2d4a27","#9aab86"],
+  "background": "#f0f4ea",
+  "foreground": "#2d4a27",
+  "tableAccent": "#4a7c3f"
+}

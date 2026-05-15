@@ -1,0 +1,6 @@
+BRONZE = "/opt/spark-data/delta/bronze"
+SILVER = "/opt/spark-data/delta/silver"
+GOLD = "/opt/spark-data/delta/gold"
+RETAILER_DB = "retailer_details"
+TRANSACTION_DB = "transaction_details"
+DUCK_DB = "/opt/spark-data/duckdb"

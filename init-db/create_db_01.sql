@@ -1,0 +1,2 @@
+CREATE DATABASE retailer_details;
+CREATE DATABASE transaction_details;
